@@ -1,0 +1,16 @@
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\bin\Debug\net6.0-windows\CadFuncionarios.exe
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\bin\Debug\net6.0-windows\CadFuncionarios.deps.json
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\bin\Debug\net6.0-windows\CadFuncionarios.runtimeconfig.json
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\bin\Debug\net6.0-windows\CadFuncionarios.dll
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\bin\Debug\net6.0-windows\CadFuncionarios.pdb
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.csproj.GenerateResource.cache
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.AssemblyInfo.cs
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.dll
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\refint\CadFuncionarios.dll
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.pdb
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.genruntimeconfig.cache
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\ref\CadFuncionarios.dll
+C:\Users\Uelson\Desktop\PIM-IV\CadFuncionarios\CadFuncionarios\obj\Debug\net6.0-windows\CadFuncionarios.frmCadFuncionarios.resources
